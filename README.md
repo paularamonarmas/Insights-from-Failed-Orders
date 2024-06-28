@@ -10,5 +10,6 @@ I'll complete the following tasks:
 4. Plot the distribution of average ETA by hours. How can this plot be explained?
 
 # References
+https://platform.stratascratch.com/data-projects/insights-failed-orders
 https://github.com/dell-datascience/Insights-from-failed-ride-orders-/blob/main/Insights_from_failed_orders.ipynb
 https://github.com/LinkedInLearning/python-statistics-essential-training-4433355/blob/main/PyStats-Solutions.ipynb
