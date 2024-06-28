@@ -9,3 +9,7 @@ I'll complete the following tasks:
 3. Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
 4. Plot the distribution of average ETA by hours. How can this plot be explained?
 5. BONUS Hexagons. Using the h3 and folium packages, calculate how many sizes 8 hexes contain 80% of all orders from the original data sets and visualise the hexes, colouring them by the number of fails on the map.
+
+# References
+https://github.com/dell-datascience/Insights-from-failed-ride-orders-/blob/main/Insights_from_failed_orders.ipynb
+https://github.com/LinkedInLearning/python-statistics-essential-training-4433355/blob/main/PyStats-Solutions.ipynb
